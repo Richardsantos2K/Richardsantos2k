@@ -1,9 +1,13 @@
 ## System.out.println("Olá, mundo👋, meu nome é Richard dos santos");𝙅𝘼𝙑𝘼 ☕
 
 ## Sobre mim
-sobre mim: Meu nome é Richard dos santos e Silva Pereira tenho 18 anos, estado civil solteiro, atualmente cursando Tecnologia em análise e desenvolvimento de sistemas na UNINOVE, busco aprender cada dia mais, e aproveitar ao máximo meus estudos e como profissional , atualmente sou estudante , pretendo seguir o desenvolvimento back-end como parte da minha profissão, já fiz curso de lógica de programação, e para entrar no mundo da programação comecei aprendendo HTML básico, CSS e js, então eu sabia onde ir na área de programação, atualmente cursando banco de dados, integração java ao banco de dados, REST API's RESTFul de 0 a AWS com Spring Boot 3 com Java e Docker.
+Olá, meu nome é Richard dos Santos e Silva Pereira, tenho 19 anos e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na UNINOVE. Estou focado em me tornar um desenvolvedor back-end qualificado, com ênfase em Java e Spring Boot.
 
-meus pontos fortes são: bom relacionamento de trabalho, aceitar críticas construtivas, tentar sempre ser o melhor no que faço, boa comunicação, trabalho em equipe e foco no meu trabalho.
+Atualmente, estou aprimorando meu conhecimento em áreas essenciais para o desenvolvimento de sistemas, como banco de dados, integração Java com bancos de dados, REST API's RESTFul com Java e Spring boot. Tenho pontos fortes em relacionamentos interpessoais, aceitação de críticas construtivas, trabalho em equipe e comprometimento com a excelência. Estou ansioso para contribuir em uma equipe dinâmica.
+
+Atenciosamente,
+
+Richard dos Santos e Silva Pereira
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-dos-santos-821a94233/)
 
